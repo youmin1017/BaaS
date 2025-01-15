@@ -1,10 +1,10 @@
 package controllers
 
 import (
-	"baas-user/internal/configs"
-	"baas-user/internal/controllers/inputs"
-	"baas-user/internal/controllers/outputs"
-	"baas-user/internal/services"
+	"baas-auth/internal/configs"
+	"baas-auth/internal/controllers/inputs"
+	"baas-auth/internal/controllers/outputs"
+	"baas-auth/internal/services"
 	"context"
 	"net/http"
 

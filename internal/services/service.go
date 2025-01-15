@@ -1,7 +1,7 @@
 package services
 
 import (
-	"baas-user/internal/configs"
+	"baas-auth/internal/configs"
 	"context"
 
 	"github.com/google/uuid"

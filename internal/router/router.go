@@ -1,9 +1,9 @@
 package router
 
 import (
-	"baas-user/internal/configs"
-	"baas-user/internal/controllers"
-	"baas-user/internal/services"
+	"baas-auth/internal/configs"
+	"baas-auth/internal/controllers"
+	"baas-auth/internal/services"
 	"context"
 	"fmt"
 
